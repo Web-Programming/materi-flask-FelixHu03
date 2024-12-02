@@ -1,1 +1,2 @@
-.vnv
+__pycache__/
+.venv
